@@ -7,6 +7,7 @@
 ### 🚀 About Me
 
 - 💼 I’m currently working at **Space Finance** developing apps with **C#, React & Azure**.
+- 🏢 I’ve worked in multiple companies building enterprise systems using **.NET and SQL Server**
 - 🤖 Experienced in **AI integration**, **Prompt Engineering**, and **Cloud DevOps**.
 - 📊 I teach Power BI, Excel with Macros and Power Query to 200+ students annually.
 - 🌎 Based in **Cochabamba, Bolivia**.

@@ -58,7 +58,7 @@
 
 ### 📰 Latest Blog Posts
 
-* 🚀 *Coming soon... tutorials on .NET, AI & BI Dashboards!*
+* 🚀 *Coming soon... tutorials on .NET, AI & Power BI Dashboards!*
 
 ---
 
